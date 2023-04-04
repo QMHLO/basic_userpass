@@ -3,7 +3,13 @@
 ## Generate Username And Passoword Link 
 - https://www.web2generators.com/apache-tools/htpasswd-generator
 
-### Example
+## Get Server Directory
+```
+<?php echo cwd(); ?>
+```
+###example server directory
+- /home/qualyxs001/qualy.jp/
+
 ## Create .htaccess file
 ```
 AuthUserFile "/home/qualyxs001/qualy.jp/htpasswd/.htpasswd"
