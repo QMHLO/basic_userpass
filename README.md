@@ -7,7 +7,7 @@
 ```
 <?php echo cwd(); ?>
 ```
-###example server directory
+### Example server directory
 - /home/qualyxs001/qualy.jp/
 
 ## Create .htaccess file
@@ -21,3 +21,4 @@ require valid-user
 ```
 htet:$apr1$zabrmktn$2JDz1zuMyB.wFDOK95E/R1
 ```
+## Upload files
