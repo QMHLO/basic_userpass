@@ -1,4 +1,4 @@
-# How to create Username and Password for basic url
+# How to Create Username and Password for Basic URL Access
 
 ## Generate Username And Passoword Link
 You can generate a username and password hash for Basic Authentication using this online tool:
