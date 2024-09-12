@@ -7,7 +7,7 @@
 ## Get Server Directory
 
 ```
-<?php echo cwd(); ?>
+<?php echo getcwd(); ?>
 ```
 
 ### Example server directory
